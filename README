@@ -1,0 +1,6 @@
+FormsLib is a formular framework.
+
+FormsLib uses PHP to create the formular, but it heavily depends on JavaScript in the browser.
+
+FormsLib allows to create conditional pages, which allows the user to go step by step through the form.
+
